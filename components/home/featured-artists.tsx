@@ -96,7 +96,7 @@ export function FeaturedArtists() {
                     <span className="text-sm text-slate-500">({artist.reviews})</span>
                   </div>
                   <Button size="sm" className="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700">
-                    Book Now
+                    Ask for Quote
                   </Button>
                 </div>
               </CardContent>

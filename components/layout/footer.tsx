@@ -49,7 +49,7 @@ export function Footer() {
                   href="/booking"
                   className="text-gray-400 hover:text-white transition-colors"
                 >
-                  Book Now
+                  Ask for Quote
                 </Link>
               </li>
             </ul>

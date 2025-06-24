@@ -326,7 +326,7 @@ export function ArtistListing() {
 
                 <div className="flex space-x-2">
                   <Button className="flex-1 bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700">
-                    Book Now
+                    Ask for Quote
                   </Button>
                   <Button variant="outline" size="icon">
                     <Eye className="h-4 w-4" />
