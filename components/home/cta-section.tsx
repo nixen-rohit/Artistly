@@ -11,7 +11,7 @@ export function CTASection() {
             Ready to Create Amazing Events?
           </h2>
           <p className="text-xl opacity-90 mb-12 max-w-2xl mx-auto">
-            Join thousands of event organizers who trust Eventful India to connect them with India's best artists.
+            Join thousands of event organizers who trust Artistly to connect them with India's best artists.
           </p>
 
           <div className="flex flex-col md:flex-row gap-6 justify-center items-center mb-12">

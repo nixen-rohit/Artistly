@@ -7,7 +7,7 @@ import { Navigation } from '@/components/layout/navigation';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Eventful India - Premier Artist Booking Platform',
+  title: 'Artistly- Premier Artist Booking Platform',
   description: 'Book top artists and performers for your events across India. Professional artist management and event booking platform.',
 };
 

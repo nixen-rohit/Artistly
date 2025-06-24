@@ -6,14 +6,14 @@ export function TestimonialsSection() {
     {
       name: 'Rohan Gupta',
       role: 'Event Manager, TechCorp',
-      content: 'Eventful India made our corporate event unforgettable. The artist we booked was professional, talented, and the booking process was seamless.',
+      content: 'Artistly made our corporate event unforgettable. The artist we booked was professional, talented, and the booking process was seamless.',
       rating: 5,
       image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=150'
     },
     {
       name: 'Priya Patel',
       role: 'Wedding Planner',
-      content: 'I use Eventful India for all my client events. The quality of artists and reliability of service is unmatched. Highly recommended!',
+      content: 'I use Artistly for all my client events. The quality of artists and reliability of service is unmatched. Highly recommended!',
       rating: 5,
       image: 'https://images.pexels.com/photos/3764119/pexels-photo-3764119.jpeg?auto=compress&cs=tinysrgb&w=150'
     },
