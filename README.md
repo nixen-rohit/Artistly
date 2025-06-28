@@ -11,7 +11,7 @@ Deployed live at: https://artistly-nixen.vercel.app/
 Artistly is a mock platform where:
 - **Event planners** can browse artists, filter by category/location, and request bookings.
 - **Artist managers** can onboard new talent through a smart form.
-- An optional dashboard page displays artist submissions in a simple table view.
+ 
 
 > ⚠️ This is a frontend-only demo. All data is handled via static JSON or mock APIs.
 
@@ -35,7 +35,7 @@ Artistly is a mock platform where:
 | 🏠 Home           | `/`           | Platform intro + category cards |
 | 🎨 Artist Listing | `/artists`    | Filterable grid of artist cards |
 | 📝 Onboard Form   | `/onboard`    | Multi-section artist onboarding form |
-| 📊 Dashboard *(optional)* | `/dashboard` | Table of artist submissions |
+ 
 
 ---
 
