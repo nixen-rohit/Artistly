@@ -1,4 +1,4 @@
-# 🎭 Artistly.com – Performing Artist Booking Platform
+# 🎭 Artistly – Performing Artist Booking Platform
 
 A responsive frontend web app built with **Next.js**, **Tailwind CSS**, and **React**, designed as a demo for a fictional platform that connects **Event Planners** with **Performing Artists**.
 
